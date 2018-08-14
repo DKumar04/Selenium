@@ -21,3 +21,6 @@
 \\mac\home\documents\visual studio 2015\Projects\Keyword Driven Framework\Selenium.Tests\obj\Debug\Selenium.Tests.exe
 \\mac\home\documents\visual studio 2015\Projects\Keyword Driven Framework\Selenium.Tests\obj\Debug\Selenium.Tests.pdb
 \\mac\home\documents\visual studio 2015\Projects\Keyword Driven Framework\Selenium.Tests\obj\Debug\Selenium.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\keyword\Selenium.Tests\bin\Debug\Selenium.Tests.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\keyword\Selenium.Tests\obj\Debug\Selenium.Tests.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\keyword\Selenium.Tests\obj\Debug\Selenium.Tests.pdb
