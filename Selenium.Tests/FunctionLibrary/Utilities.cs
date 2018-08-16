@@ -26,8 +26,8 @@ namespace Selenium.Tests.FunctionLibrary
         public List<MethodInfo> MethodInfo;
         public static string ActionKeyword;
         public LoginPage LoginPage;
-        public readonly string Username = "admin@quantaservices.com";
-        public readonly string Password = "P2ssw0rd123";
+        public readonly string Username = "";
+        public readonly string Password = "";
         private WebDriverWait wait;
         public static readonly string KEYWORD_FAIL = "FAIL";
         public static readonly string KEYWORD_PASS = "PASS";
@@ -90,7 +90,7 @@ namespace Selenium.Tests.FunctionLibrary
         public Utilities Run_TestCase(string keywordFilePath, string sheetName)
         {
             LoginPage = new LoginPage();
-            GoToUrl("https://qaweb.empwr.com");
+            GoToUrl("");
             LoginPage.Login(Username,Password);
 
             Type[] typelist = getTypesInNamespace(
